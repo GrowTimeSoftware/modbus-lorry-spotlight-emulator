@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env py
 import logging
 import argparse
 from pymodbus.server import StartSerialServer
